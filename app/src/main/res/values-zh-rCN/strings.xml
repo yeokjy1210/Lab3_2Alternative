@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab 3.2 Alternative</string>
+    <string name="greeting">你好吗, 奇迹哥？</string>
+    <string name="message">消息</string>
+    <string name="show_message">显示消息</string>
+</resources>
